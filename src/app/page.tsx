@@ -7,6 +7,7 @@ export default function Home() {
     <div className={styles.page}>
       <Link href="/about">About</Link>
       <Link href="/test">About</Link>
+      <Link href="/serverroute">serverroute</Link>
       <main className={styles.main}>
         <Image
           className={styles.logo}
